@@ -1,6 +1,6 @@
 [submodule "子"]
 	path = 子
-	url = https://gitee.com/yang-xiaoquan/testt
+	url = https://github.com/yxqorg/yxqgithubtest
 [submodule "test"]
 	path = test
 	url = https://gitee.com/yang-xiaoquan/testt
