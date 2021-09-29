@@ -5,5 +5,5 @@
 	path = test
 	url = https://gitee.com/yang-xiaoquan/testt
 [submodule "githubtest"]
-	path = githubtest
+	path = githubtest1
 	url = https://github.com/yxqorg/yxqgithubtest
