@@ -1,3 +1,6 @@
 [submodule "子"]
 	path = 子
 	url = https://gitee.com/yang-xiaoquan/testt
+[submodule "test"]
+	path = test
+	url = https://gitee.com/yang-xiaoquan/testt
